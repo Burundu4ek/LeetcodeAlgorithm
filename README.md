@@ -7,3 +7,4 @@
 |  167 | Two Sum II - Input array is sorted | [*two-sum-II*](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/twoSumII) |
 |   9  | Palindrome Number | [*palindrome-number*](https://leetcode.com/problems/palindrome-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/palindromeNumber) |
 |  704 | Binary Search | [*binary-search*](https://leetcode.com/problems/binary-search/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binarySearch) |
+|  69  | Sqrt | [*sqrt*](https://leetcode.com/problems/sqrtx/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sqrt) |
