@@ -24,3 +24,4 @@
 |   20 | Valid Parentheses | [*valid-parentheses*](https://leetcode.com/problems/valid-parentheses/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validParentheses) |
 |  844 | Backspace String Compare | [*backspace-string-compare*](https://leetcode.com/problems/backspace-string-compare/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/backspaceCompare) |
 |  283 | Move Zeroes | [*move-zeroes*](https://leetcode.com/problems/move-zeroes/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/moveZeroes) |
+|   27 | Remove Element | [*remove-element*](https://leetcode.com/problems/remove-element/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeElement) |
