@@ -22,3 +22,4 @@
 |  344 | Reverse String | [*reverse-string*](https://leetcode.com/problems/reverse-string/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseString) |
 |  561 | Array Partition I | [*array-partition-i*](https://leetcode.com/problems/array-partition-i/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/arrayPairSum) |
 |   20 | Valid Parentheses | [*valid-parentheses*](https://leetcode.com/problems/valid-parentheses/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validParentheses) |
+|  844 | Backspace String Compare | [*backspace-string-compare*](https://leetcode.com/problems/backspace-string-compare/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/backspaceCompare) |
