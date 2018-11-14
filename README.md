@@ -10,3 +10,4 @@
 |  69  | Sqrt | [*sqrt*](https://leetcode.com/problems/sqrtx/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sqrt) |
 |   35 | Search Insert Position | [*search-insert-position*](https://leetcode.com/problems/search-insert-position/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/searchInsert) |
 |  278 | First Bad Version | [*first-bad-version*](https://leetcode.com/problems/first-bad-version/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/firstBadVersion) |
+|  162 | Find Peak Element | [*find-peak-element*](https://leetcode.com/problems/find-peak-element/) | Easy | [*soution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/findPeakElement) |
