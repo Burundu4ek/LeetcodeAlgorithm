@@ -28,3 +28,4 @@
 |   58 | Length of Last Word | [*length-of-last-word*](https://leetcode.com/problems/length-of-last-word/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/lengthOfLastWord) |
 |   13 | Roman to Integer | [*roman-to-integer*](https://leetcode.com/problems/roman-to-integer/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/romanToInt) |
 |  804 | Unique Morse Code Words | [*unique-morse-code-words*](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/uniqueMorseRepresentations) |
+|  709 | To Lower Case | [*to-lower-case*](https://leetcode.com/problems/to-lower-case/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/toLowerCase) |
