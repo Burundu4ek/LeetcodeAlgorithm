@@ -15,3 +15,4 @@
 |  724 | Find Pivot Index | [*find-pivot-index*](https://leetcode.com/problems/find-pivot-index/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pivotIndex) |
 |  747 | Largest Number At Least Twice of Others | [*largest-number-at-least-twice-of-others*](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/dominantIndex) |
 |   66 | Plus One | [*plus-one*](https://leetcode.com/problems/plus-one/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/plusOne) |
+|   54 | Spiral Matrix | [*spiral-matrix*](https://leetcode.com/problems/spiral-matrix/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/spiralOrder) |
