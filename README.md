@@ -16,3 +16,4 @@
 |  747 | Largest Number At Least Twice of Others | [*largest-number-at-least-twice-of-others*](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/dominantIndex) |
 |   66 | Plus One | [*plus-one*](https://leetcode.com/problems/plus-one/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/plusOne) |
 |   54 | Spiral Matrix | [*spiral-matrix*](https://leetcode.com/problems/spiral-matrix/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/spiralOrder) |
+|  118 | Pascal's Triangle | [*pascals-triangle*](https://leetcode.com/problems/pascals-triangle/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pascalsTriangle) |
