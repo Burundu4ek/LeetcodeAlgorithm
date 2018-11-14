@@ -25,3 +25,4 @@
 |  844 | Backspace String Compare | [*backspace-string-compare*](https://leetcode.com/problems/backspace-string-compare/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/backspaceCompare) |
 |  283 | Move Zeroes | [*move-zeroes*](https://leetcode.com/problems/move-zeroes/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/moveZeroes) |
 |   27 | Remove Element | [*remove-element*](https://leetcode.com/problems/remove-element/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeElement) |
+|   58 | Length of Last Word | [*length-of-last-word*](https://leetcode.com/problems/length-of-last-word/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/lengthOfLastWord) |
