@@ -22,7 +22,7 @@ public class solution {
         return ((int) mid);
     }
 
-    private int guess(int num){
+    private int guess(int num) {
         return 0;
     }
 }

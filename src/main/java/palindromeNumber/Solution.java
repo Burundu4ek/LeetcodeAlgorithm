@@ -5,7 +5,7 @@ public class Solution {
         char[] chars = String.valueOf(x).toCharArray();
         int l = 0, h = chars.length - 1;
 
-        while(l < h) {
+        while (l < h) {
             if (chars[l++] != chars[h--])
                 return false;
         }

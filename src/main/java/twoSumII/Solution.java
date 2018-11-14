@@ -8,7 +8,7 @@ public class Solution {
             if (sum > target)
                 h = binarySearch(numbers, l + 1, h - 1, target - numbers[l]);
             else if (sum < target)
-                l = binarySearch(numbers, l + 1, h - 1 , target - numbers[h]);
+                l = binarySearch(numbers, l + 1, h - 1, target - numbers[h]);
         }
 
         return new int[]{l + 1, h + 1};
