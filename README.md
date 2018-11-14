@@ -14,3 +14,4 @@
 |  153 | Find Minimum in Rotated Sorted Array | [*find-minimum-in-rotated-sorted-array*](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/findMinimumInRotatedSortedArray) |
 |  724 | Find Pivot Index | [*find-pivot-index*](https://leetcode.com/problems/find-pivot-index/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pivotIndex) |
 |  747 | Largest Number At Least Twice of Others | [*largest-number-at-least-twice-of-others*](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/dominantIndex) |
+|   66 | Plus One | [*plus-one*](https://leetcode.com/problems/plus-one/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/plusOne) |
