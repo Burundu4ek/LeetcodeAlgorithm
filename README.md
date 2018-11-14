@@ -19,3 +19,4 @@
 |  118 | Pascal's Triangle | [*pascals-triangle*](https://leetcode.com/problems/pascals-triangle/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pascalsTriangle) |
 |   67 | Add Binary | [*add-binary*](https://leetcode.com/problems/add-binary/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addBinary) |
 |   28 | Implement strStr() | [*implement-strstr*](https://leetcode.com/problems/implement-strstr/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/strStr) |
+|  344 | Reverse String | [*reverse-string*](https://leetcode.com/problems/reverse-string/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseString) |
