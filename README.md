@@ -20,3 +20,4 @@
 |   67 | Add Binary | [*add-binary*](https://leetcode.com/problems/add-binary/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addBinary) |
 |   28 | Implement strStr() | [*implement-strstr*](https://leetcode.com/problems/implement-strstr/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/strStr) |
 |  344 | Reverse String | [*reverse-string*](https://leetcode.com/problems/reverse-string/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseString) |
+|  561 | Array Partition I | [*array-partition-i*](https://leetcode.com/problems/array-partition-i/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/arrayPairSum) |
