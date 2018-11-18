@@ -30,3 +30,4 @@
 |  804 | Unique Morse Code Words | [*unique-morse-code-words*](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/uniqueMorseRepresentations) |
 |  709 | To Lower Case | [*to-lower-case*](https://leetcode.com/problems/to-lower-case/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/toLowerCase) |
 |  824 | Goat Latin | [*goat-latin*](https://leetcode.com/problems/goat-latin/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/toGoatLatin) |
+|  830 | Positions of Large Groups | [*positions-of-large-groups*](https://leetcode.com/problems/positions-of-large-groups/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/largeGroupPositions) |
