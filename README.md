@@ -33,3 +33,4 @@
 |  830 | Positions of Large Groups | [*positions-of-large-groups*](https://leetcode.com/problems/positions-of-large-groups/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/largeGroupPositions) |
 |  169 | Majority Element | [*majority-element*](https://leetcode.com/problems/majority-element/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/majorityElement) |
 |  144 | Binary Tree Preorder Traversal | [*binary-tree-preorder-traversal*](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/preorderTraversal) |
+|   94 | Binary Tree Inorder Traversal | [*binary-tree-inorder-traversal*](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/inorderTraversal) |
