@@ -3,10 +3,10 @@ package isSameTree;
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ * int val;
+ * TreeNode left;
+ * TreeNode right;
+ * TreeNode(int x) { val = x; }
  * }
  */
 class Solution {
@@ -17,14 +17,14 @@ class Solution {
         return res;
     }
 
-    private boolean compTraversal(TreeNode rF, TreeNode rS){
+    private boolean compTraversal(TreeNode rF, TreeNode rS) {
         if (!(rF == null && rS == null)) {
-            if (rF == null || rS == null){
+            if (rF == null || rS == null) {
                 res = false;
                 return false;
             }
 
-            if (rF.val != rS.val){
+            if (rF.val != rS.val) {
                 res = false;
                 return false;
             }
