@@ -37,3 +37,4 @@
 |  145 | Binary Tree Postorder Traversal | [*binary-tree-postorder-traversal*](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Hard | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/postorderTraversal)|
 |  622 | Design Circular Queue | [*design-circular-queue*](https://leetcode.com/problems/design-circular-queue/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/circularQueue) |
 |  346 | Moving Average from Data Stream | [*moving-average-from-data-stream*](https://leetcode.com/problems/moving-average-from-data-stream/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/movingAverage) |
+|  100 | Same Tree | [*same-tree*](https://leetcode.com/problems/same-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isSameTree) |
