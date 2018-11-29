@@ -40,3 +40,4 @@
 |  100 | Same Tree | [*same-tree*](https://leetcode.com/problems/same-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isSameTree) |
 |   88 | Merge Sorted Array | [*merge-sorted-array*](https://leetcode.com/problems/merge-sorted-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/mergeSortedArray) |
 |   26 | Remove Duplicates from Sorted Array | [*remove-duplicates-from-sorted-array*](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeDuplicatesFromSortedArray) |
+|   7 | Reverse Integer | [reverse-integer](https://leetcode.com/problems/reverse-integer/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseInteger) |
