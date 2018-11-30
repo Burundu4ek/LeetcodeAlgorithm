@@ -43,3 +43,4 @@
 |    7 | Reverse Integer | [reverse-integer](https://leetcode.com/problems/reverse-integer/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseInteger) |
 |   14 | Longest Common Prefix | [*longest-common-prefix*](https://leetcode.com/problems/longest-common-prefix/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestCommonPrefix) |
 |   53 | Maximum Subarray | [*maximum-subarray*](https://leetcode.com/problems/maximum-subarray/)| Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maxSubArray) |
+|  119 | Pascal's Triangle II | [*pascals-triangle-ii*](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pascalTriangleII) |
