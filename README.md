@@ -45,3 +45,4 @@
 |   53 | Maximum Subarray | [*maximum-subarray*](https://leetcode.com/problems/maximum-subarray/)| Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maxSubArray) |
 |  119 | Pascal's Triangle II | [*pascals-triangle-ii*](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pascalTriangleII) |
 |  121 | Best Time to Buy and Sell Stock | [*best-time-to-buy-and-sell-stock*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/bestTimeToBuyAndSellStock) |
+|   21 | Merge Two Sorted Lists | [*merge-two-sorted-lists*](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/mergeTwoSortedLists) |
