@@ -42,3 +42,4 @@
 |   26 | Remove Duplicates from Sorted Array | [*remove-duplicates-from-sorted-array*](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeDuplicatesFromSortedArray) |
 |    7 | Reverse Integer | [reverse-integer](https://leetcode.com/problems/reverse-integer/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseInteger) |
 |   14 | Longest Common Prefix | [*longest-common-prefix*](https://leetcode.com/problems/longest-common-prefix/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestCommonPrefix) |
+|   53 | Maximum Subarray | [*maximum-subarray*](https://leetcode.com/problems/maximum-subarray/)| Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maxSubArray) |
