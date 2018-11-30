@@ -44,3 +44,4 @@
 |   14 | Longest Common Prefix | [*longest-common-prefix*](https://leetcode.com/problems/longest-common-prefix/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestCommonPrefix) |
 |   53 | Maximum Subarray | [*maximum-subarray*](https://leetcode.com/problems/maximum-subarray/)| Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maxSubArray) |
 |  119 | Pascal's Triangle II | [*pascals-triangle-ii*](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pascalTriangleII) |
+|  121 | Best Time to Buy and Sell Stock | [*best-time-to-buy-and-sell-stock*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/bestTimeToBuyAndSellStock) |
