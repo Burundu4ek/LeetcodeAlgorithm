@@ -47,3 +47,4 @@
 |  121 | Best Time to Buy and Sell Stock | [*best-time-to-buy-and-sell-stock*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/bestTimeToBuyAndSellStock) |
 |   21 | Merge Two Sorted Lists | [*merge-two-sorted-lists*](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/mergeTwoSortedLists) |
 |  189 | Rotate Array | [*rotate-array*](https://leetcode.com/problems/rotate-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/rotateArray) |
+|  686 | Repeated String Match | [*repeated-string-match*](https://leetcode.com/problems/repeated-string-match/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/repeatedStringMatch) |
