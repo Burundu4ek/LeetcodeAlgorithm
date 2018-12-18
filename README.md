@@ -48,3 +48,4 @@
 |   21 | Merge Two Sorted Lists | [*merge-two-sorted-lists*](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/mergeTwoSortedLists) |
 |  189 | Rotate Array | [*rotate-array*](https://leetcode.com/problems/rotate-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/rotateArray) |
 |  686 | Repeated String Match | [*repeated-string-match*](https://leetcode.com/problems/repeated-string-match/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/repeatedStringMatch) |
+|  482 | License Key Formatting | [*license-key-formatting*](https://leetcode.com/problems/license-key-formatting/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/licenseKeyFormatting)
