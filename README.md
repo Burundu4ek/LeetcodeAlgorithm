@@ -49,3 +49,4 @@
 |  189 | Rotate Array | [*rotate-array*](https://leetcode.com/problems/rotate-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/rotateArray) |
 |  686 | Repeated String Match | [*repeated-string-match*](https://leetcode.com/problems/repeated-string-match/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/repeatedStringMatch) |
 |  482 | License Key Formatting | [*license-key-formatting*](https://leetcode.com/problems/license-key-formatting/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/licenseKeyFormatting)
+|  102 | Binary Tree Level Order Traversal | [*binary-tree-level-order-traversal*](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Madium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binaryTreeLevelOrderTraversal) |
