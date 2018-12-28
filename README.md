@@ -54,3 +54,4 @@
 |  387 | First Unique Character in a String | [*first-unique-character-in-a-string*](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/firstUniqChar) |
 |  206 | Reverse Linked List | [*reverse-linked-list*](https://leetcode.com/problems/reverse-linked-list/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseList) |
 |  141 | Linked List Cycle | [*linked-list-cycle*](https://leetcode.com/problems/linked-list-cycle/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasCycle) |
+|  485 | Max Consecutive Ones | [*max-consecutive-ones*](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/findMaxConsecutiveOnes) |
