@@ -58,3 +58,4 @@
 |  151 | Reverse Words in a String | [*reverse-words-in-a-string*](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseWords) |
 |  136 | Single Number | [*single-number*](https://leetcode.com/problems/single-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/singleNumber) |
 |  217 | Contains Duplicate | [*contains-duplicate*](https://leetcode.com/problems/contains-duplicate/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/containsDuplicate) |
+|  209 | Minimum Size Subarray Sum | [*minimum-size-subarray-sum*](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/minSubArrayLen) |
