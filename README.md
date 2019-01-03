@@ -56,3 +56,4 @@
 |  141 | Linked List Cycle | [*linked-list-cycle*](https://leetcode.com/problems/linked-list-cycle/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasCycle) |
 |  485 | Max Consecutive Ones | [*max-consecutive-ones*](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/findMaxConsecutiveOnes) |
 |  151 | Reverse Words in a String | [*reverse-words-in-a-string*](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseWords) |
+|  136 | Single Number | [*single-number*](https://leetcode.com/problems/single-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/singleNumber) |
