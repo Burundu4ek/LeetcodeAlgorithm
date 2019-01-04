@@ -1,4 +1,4 @@
-# Leetcode Algorithm
+# Leetcode Solved Tasks
 
 |   #  | Problem name | Description | Difficulty | Solution link |
 | :--- | :----------- | :---------: | :--------: | :-----------: |
