@@ -62,3 +62,4 @@
 |  557 | Reverse Words in a String III | [*reverse-words-in-a-string-iii*](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/reverseWordsIII) |
 |  896 | Monotonic Array | [*monotonic-array*](https://leetcode.com/problems/monotonic-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isMonotonic) |
 |  142 | Linked List Cycle II | [*linked-list-cycle-ii*](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasCycleII) |
+|  160 | Intersection of Two Linked Lists | [*intersection-of-two-linked-lists*](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/intersectionOfTwoLinkedLists) |
