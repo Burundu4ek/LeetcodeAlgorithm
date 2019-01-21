@@ -63,3 +63,4 @@
 |  896 | Monotonic Array | [*monotonic-array*](https://leetcode.com/problems/monotonic-array/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isMonotonic) |
 |  142 | Linked List Cycle II | [*linked-list-cycle-ii*](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasCycleII) |
 |  160 | Intersection of Two Linked Lists | [*intersection-of-two-linked-lists*](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/intersectionOfTwoLinkedLists) |
+|  19  | Remove Nth Node From End of List | [*remove-nth-node-from-end-of-list*](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeNthFromEnd) |
