@@ -69,3 +69,4 @@
 |  203 | Remove Linked List Elements | [*remove-linked-list-elements*](https://leetcode.com/problems/remove-linked-list-elements/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeLinkedListElements) |
 |  328 | Odd Even Linked List | [*odd-even-linked-list*](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/oddEvenLinkedList) |
 |  104 | Maximum Depth of Binary Tree | [*maximum-depth-of-binary-tree*](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maximumDepthOfBinaryTree) |
+|  112 | Path Sum | [*path-sum*](https://leetcode.com/problems/path-sum/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasPathSum) |
