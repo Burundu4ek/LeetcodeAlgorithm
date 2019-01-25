@@ -1,6 +1,6 @@
 package maximumDepthOfBinaryTree;
 
-public class Solution {
+public class TopDownSolution {
     int res = 0;
 
     public int maxDepth(TreeNode root) {
