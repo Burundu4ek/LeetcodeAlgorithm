@@ -70,3 +70,4 @@
 |  328 | Odd Even Linked List | [*odd-even-linked-list*](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/oddEvenLinkedList) |
 |  104 | Maximum Depth of Binary Tree | [*maximum-depth-of-binary-tree*](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/maximumDepthOfBinaryTree) |
 |  112 | Path Sum | [*path-sum*](https://leetcode.com/problems/path-sum/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasPathSum) |
+|  101 | Symmetric Tree | [*symmetric-tree*](https://leetcode.com/problems/symmetric-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/symmetricTree) |
