@@ -72,3 +72,4 @@
 |  112 | Path Sum | [*path-sum*](https://leetcode.com/problems/path-sum/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/hasPathSum) |
 |  101 | Symmetric Tree | [*symmetric-tree*](https://leetcode.com/problems/symmetric-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/symmetricTree) |
 |  110 | Balanced Binary Tree | [*balanced-binary-tree*](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/balancedBinaryTree) |
+|  111 | Minimum Depth of Binary Tree | [*minimum-depth-of-binary-tree*](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/minimumDepthOfBinaryTree) |
