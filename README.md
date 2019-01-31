@@ -75,3 +75,4 @@
 |  111 | Minimum Depth of Binary Tree | [*minimum-depth-of-binary-tree*](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/minimumDepthOfBinaryTree) |
 |  226 | Invert Binary Tree | [*invert-binary-tree*](https://leetcode.com/problems/invert-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/invertTree) |
 |  113 | Path Sum II | [*path-sum-ii*](https://leetcode.com/problems/path-sum-ii/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pathSumII) |
+|  257 | Binary Tree Paths | [*binary-tree-paths*](https://leetcode.com/problems/binary-tree-paths/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binaryTreePaths) |
