@@ -76,3 +76,4 @@
 |  226 | Invert Binary Tree | [*invert-binary-tree*](https://leetcode.com/problems/invert-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/invertTree) |
 |  113 | Path Sum II | [*path-sum-ii*](https://leetcode.com/problems/path-sum-ii/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/pathSumII) |
 |  257 | Binary Tree Paths | [*binary-tree-paths*](https://leetcode.com/problems/binary-tree-paths/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binaryTreePaths) |
+|  199 | Binary Tree Right Side View | [*binary-tree-right-side-view*](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/rightSideView) |
