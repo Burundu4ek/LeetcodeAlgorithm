@@ -84,3 +84,4 @@
 |  173 | Binary Search Tree Iterator | [*binary-search-tree-iterator*](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binarySearchTreeIterator) |
 |  129 | Sum Root to Leaf Numbers | [*sum-root-to-leaf-numbers*](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sumRootToLeafNumbers) |
 |  404 | Sum of Left Leaves | [*sum-of-left-leaves*](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sumOfLeftLeaves) |
+|  617 | Merge Two Binary Trees | [*merge-two-binary-trees*](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/mergeTrees) |
