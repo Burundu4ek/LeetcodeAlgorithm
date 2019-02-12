@@ -83,3 +83,4 @@
 |  543 | Diameter of Binary Tree | [*diameter-of-binary-tree*](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/diameterOfBinaryTree) |
 |  173 | Binary Search Tree Iterator | [*binary-search-tree-iterator*](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/binarySearchTreeIterator) |
 |  129 | Sum Root to Leaf Numbers | [*sum-root-to-leaf-numbers*](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sumRootToLeafNumbers) |
+|  404 | Sum of Left Leaves | [*sum-of-left-leaves*](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sumOfLeftLeaves) |
