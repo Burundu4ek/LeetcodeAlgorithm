@@ -89,3 +89,4 @@
 |  125 | Valid Palindrome | [*lvalid-palindrome*](https://leetcode.com/problems/valid-palindrome/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validStringPalindrome) |
 |  293 | Flip Game | [*flip-game*](https://leetcode.com/problems/flip-game/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/flipGame) |
 |   83 | Remove Duplicates from Sorted List | [*remove-duplicates-from-sorted-list*](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/removeDuplicatesFromSortedList) |
+|  171 | Excel Sheet Column Number | [*excel-sheet-column-number*](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/excelSheetColumnNumber) |
