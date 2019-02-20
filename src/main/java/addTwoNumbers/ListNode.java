@@ -1,10 +1,10 @@
-package removeDuplicatesFromSortedList;
+package addTwoNumbers;
 
 public class ListNode {
     int val;
     ListNode next;
 
-    public ListNode(int x) {
+    ListNode(int x) {
         val = x;
     }
 }
