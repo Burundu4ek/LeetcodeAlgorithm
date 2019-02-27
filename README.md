@@ -95,3 +95,4 @@
 |  122 | Best Time to Buy and Sell Stock II | [*best-time-to-buy-and-sell-stock-ii*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/bestTimeToBuyAndSellStockII) |
 |  258 | Add Digits | [*add-digits*](https://leetcode.com/problems/add-digits/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addDigits) |
 |  205 | Isomorphic Strings | [*isomorphic-strings*](https://leetcode.com/problems/isomorphic-strings/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isIsomorphic) |
+|  202 | Happy Number | [*happy-number*](https://leetcode.com/problems/happy-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isHappy/) |
