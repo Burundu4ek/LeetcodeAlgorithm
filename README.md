@@ -93,4 +93,5 @@
 |   2 | Add Two Numbers | [*add-two-numbers*](https://leetcode.com/problems/add-two-numbers/)| Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addTwoNumbers) |
 |  108 | Convert Sorted Array to Binary Search Tree | [*convert-sorted-array-to-binary-search-tree*](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/sortedArrayToBST) |
 |  122 | Best Time to Buy and Sell Stock II | [*best-time-to-buy-and-sell-stock-ii*](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/bestTimeToBuyAndSellStockII) |
-|  258 | Add Digits | [add-digits](https://leetcode.com/problems/add-digits/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addDigits) |
+|  258 | Add Digits | [*add-digits*](https://leetcode.com/problems/add-digits/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/addDigits) |
+|  205 | Isomorphic Strings | [*isomorphic-strings*](https://leetcode.com/problems/isomorphic-strings/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isIsomorphic) |
