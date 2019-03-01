@@ -101,3 +101,4 @@
 |  219 | Contains Duplicate II | [*contains-duplicate-ii*](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/containsDuplicateII) |
 |  266 | Palindrome Permutation | [*palindrome-permutation*](https://leetcode.com/problems/palindrome-permutation/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/canPermutePalindrome) |
 |  242 | Valid Anagram | [*valid-anagram*](https://leetcode.com/problems/valid-anagram/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validAnagram) |
+|  409 | Longest Palindrome | [*longest-palindrome*](https://leetcode.com/problems/longest-palindrome/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestPalindrome) |
