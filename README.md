@@ -98,3 +98,4 @@
 |  202 | Happy Number | [*happy-number*](https://leetcode.com/problems/happy-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isHappy/) |
 |  231 | Power of Two | [*power-of-two*](https://leetcode.com/problems/power-of-two/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isPowerOfTwo) |
 |  326 | Power of Three | [*power-of-three*](https://leetcode.com/problems/power-of-three/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isPowerOfThree) |
+|  219 | Contains Duplicate II | [*contains-duplicate-ii*](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/containsDuplicateII) |
