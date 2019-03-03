@@ -102,3 +102,4 @@
 |  266 | Palindrome Permutation | [*palindrome-permutation*](https://leetcode.com/problems/palindrome-permutation/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/canPermutePalindrome) |
 |  242 | Valid Anagram | [*valid-anagram*](https://leetcode.com/problems/valid-anagram/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validAnagram) |
 |  409 | Longest Palindrome | [*longest-palindrome*](https://leetcode.com/problems/longest-palindrome/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestPalindrome) |
+|  243 | Shortest Word Distance | [*shortest-word-distance*](https://leetcode.com/problems/shortest-word-distance/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/shortestWordDistance) |
