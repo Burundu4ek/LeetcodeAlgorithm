@@ -103,3 +103,4 @@
 |  242 | Valid Anagram | [*valid-anagram*](https://leetcode.com/problems/valid-anagram/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/validAnagram) |
 |  409 | Longest Palindrome | [*longest-palindrome*](https://leetcode.com/problems/longest-palindrome/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestPalindrome) |
 |  243 | Shortest Word Distance | [*shortest-word-distance*](https://leetcode.com/problems/shortest-word-distance/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/shortestWordDistance) |
+|  953 | Verifying an Alien Dictionary | [*verifying-an-alien-dictionary*](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/verifyingAnAlienDictionary) |
