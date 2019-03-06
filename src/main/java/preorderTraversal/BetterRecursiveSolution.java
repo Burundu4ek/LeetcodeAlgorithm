@@ -3,7 +3,7 @@ package preorderTraversal;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BetterRecursivaSolution {
+public class BetterRecursiveSolution {
     List<Integer> res = new ArrayList<>();
 
     public List<Integer> preorderTraversal(TreeNode root) {
