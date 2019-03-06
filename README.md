@@ -104,3 +104,4 @@
 |  409 | Longest Palindrome | [*longest-palindrome*](https://leetcode.com/problems/longest-palindrome/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/longestPalindrome) |
 |  243 | Shortest Word Distance | [*shortest-word-distance*](https://leetcode.com/problems/shortest-word-distance/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/shortestWordDistance) |
 |  953 | Verifying an Alien Dictionary | [*verifying-an-alien-dictionary*](https://leetcode.com/problems/verifying-an-alien-dictionary/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/verifyingAnAlienDictionary) |
+|  700 | Search in a Binary Search Tree | [*search-in-a-binary-search-tree*](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/searchBST) |
