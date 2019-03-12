@@ -110,3 +110,4 @@
 |  590 | N-ary Tree Postorder Traversal | [*n-ary-tree-postorder-traversal*](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/nAryTreePostorderTraversal) | 
 |  246 | Strobogrammatic Number | [*strobogrammatic-number*](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/strobogrammaticNumber) |
 |  268 | Missing Number | [*missing-number*](https://leetcode.com/problems/missing-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/missingNumber) |
+|  36  | Valid Sudoku | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isValidSudoku) |
