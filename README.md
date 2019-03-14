@@ -111,3 +111,4 @@
 |  246 | Strobogrammatic Number | [*strobogrammatic-number*](https://leetcode.com/problems/strobogrammatic-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/strobogrammaticNumber) |
 |  268 | Missing Number | [*missing-number*](https://leetcode.com/problems/missing-number/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/missingNumber) |
 |  36  | Valid Sudoku | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/isValidSudoku) |
+|  237 | Delete Node in a Linked List | [*delete-node-in-a-linked-list*](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [*solution*](https://github.com/Burundu4ek/LeetcodeAlgorithm/tree/master/src/main/java/deleteNodeInLinkedList) |
